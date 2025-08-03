@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=varinder148&label=Profile%20views&color=0e75b6&style=flat" alt="varinder148" /> </p>
 
-- 🔭 I’m recently started [Leetcode](https://leetcode.com/u/user1316WG)
+- 🔭 I recently started [Leetcode](https://leetcode.com/u/user1316WG)
 
 - 🌱 I’m currently learning **Node.js and all the good backend stuff**
 
